@@ -55,7 +55,7 @@ const object2 = {
 
 Object.setPrototypeOf(object1,object2);
 
-console.log(object1.password)
+console.log(objectc1.password)
 
 let anotherUserName = "Vijay   "
 
