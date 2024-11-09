@@ -19,7 +19,7 @@ function outerFunction(){
     }
     innerFunction()
 }
-
+ 
 try{
     outerFunction();
     console.log("outer function" + username)
